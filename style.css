@@ -48,13 +48,13 @@ hr{
 }
 
 td{
-    font-style: bold;
+    font-style: oblique;
     padding-left: 10px;
 }
 
 #elso{
     text-align: right;
-    font-style: normal, ;
+    font-style: normal;
     font-weight: 900; 
 }
 
