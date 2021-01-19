@@ -22,13 +22,39 @@ h1{
     margin: 10px;
 }
 
-table{
-    border: 2px solid #1D1D4E;
+ th, td{
+    border: 1px solid #1D1D4E;
+    padding: 1px;
+    border-style: dotted;
+}
+
+table{   
     box-shadow: 4px 6px #1D1D4E;
+    margin-bottom: 20px;
 }
 
 .fejsor{
     text-align: center;
-    background-color:  #1D1D4E;
-    
+    background-color:  #1D1D4E;   
+}
+
+hr{
+    border: 1px solid #1D1D4E;
+    width: 1300px;
+}
+
+td{
+    font-style: bold;
+    padding-left: 10px;
+}
+
+#elso{
+    text-align: right;
+    font-style: normal, ;
+    font-weight: 900; 
+}
+
+.forras{
+    text-align: center;
+    font-style: oblique;
 }
