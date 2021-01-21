@@ -14,7 +14,7 @@ h1{
 #balkep{
     width: 200px;
     float: left;
-    box-shadow: 4px 6px #1D1D4E;
+    box-shadow: 4px 6px 4px #1D1D4E;
     margin: 10px;
 
 }
@@ -22,7 +22,7 @@ h1{
 #jobbkep{
     width: 400px;
     float: right;
-    box-shadow: 4px 6px #1D1D4E;
+    box-shadow: 4px 6px 4px #1D1D4E;
     margin: 10px;
 }
 
@@ -33,7 +33,7 @@ h1{
 }
 
 table{   
-    box-shadow: 4px 6px #1D1D4E;
+    box-shadow: 4px 6px 4px #1D1D4E;
     margin-bottom: 20px;
 }
 
